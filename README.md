@@ -1,4 +1,6 @@
-<div align=center>![screenshot](https://github.com/lifution/FSGradientKit/blob/main/Screenshot/Screenshot.jpg)</div align=center>
+<div align=center>
+<img src="https://github.com/lifution/FSGradientKit/blob/main/Screenshot/Screenshot.jpg" />
+</div>
 
 ## Requirements
 
