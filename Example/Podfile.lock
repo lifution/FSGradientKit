@@ -1,0 +1,23 @@
+PODS:
+  - FSGradientKit (1.0.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - FSGradientKit (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  FSGradientKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FSGradientKit: 6e11d28421634b734446f128cb2bbc246d977d30
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: a0af27b8ffa5c6eac59f8cb8822fd437a6423cb3
+
+COCOAPODS: 1.13.0

@@ -1,0 +1,6 @@
+framework module FSGradientKit {
+  umbrella header "FSGradientKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
