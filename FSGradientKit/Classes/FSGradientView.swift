@@ -55,7 +55,7 @@ open class FSGradientView: UIView {
     
     /* The kind of gradient that will be drawn. Currently, the only allowed
      * values are `axial' (the default value), `radial', and `conic'. */
-    open var type: CAGradientLayerType  {
+    open var gradientType: CAGradientLayerType  {
         get { return gradientLayer.type }
         set { gradientLayer.type = newValue }
     }

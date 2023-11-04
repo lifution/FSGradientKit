@@ -70,9 +70,9 @@ open class FSGradientLabel: UIView {
     
     /* The kind of gradient that will be drawn. Currently, the only allowed
      * values are `axial' (the default value), `radial', and `conic'. */
-    open var type: CAGradientLayerType  {
-        get { return gradientView.type }
-        set { gradientView.type = newValue }
+    open var gradientType: CAGradientLayerType  {
+        get { return gradientView.gradientType }
+        set { gradientView.gradientType = newValue }
     }
     
     // MARK: Properties/Private
