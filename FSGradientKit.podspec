@@ -11,8 +11,9 @@ Pod::Spec.new do |s|
     :tag => s.version.to_s
   }
   
+  s.swift_version = '5'
   s.ios.deployment_target = '11.0'
   
-  s.frameworks = 'UIKit'
+  s.frameworks = 'UIKit', 'Foundation'
   s.source_files = 'FSGradientKit/Classes/**/*'
 end
